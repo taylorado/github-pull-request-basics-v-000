@@ -42,7 +42,7 @@ and fingers will both grasp what's going on.
    source repo.
 
 ### Pull Request From One Fork To Another
-### Useless line
+###
 
 Here's a story:
 
@@ -68,6 +68,7 @@ jQuery).
 Click on the New Pull Request button.
 
 ![](https://curriculum-content.s3.amazonaws.com/gitpulls/2.png)
+
 
 ### Step 2
 
